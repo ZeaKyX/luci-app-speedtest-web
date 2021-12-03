@@ -5,5 +5,5 @@ function index()
 		return
 	end
 	
-	entry({"admin", "system", "speedtest-web"}, template("speedtest-web/speedtest-web"), _("Speedtest Web"), 10).leaf = true
+	entry({"admin", "network", "speedtest-web"}, template("speedtest-web/speedtest-web"), _("Speedtest Web"), 10).leaf = true
 end

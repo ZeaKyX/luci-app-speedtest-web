@@ -8,6 +8,7 @@ LuCI support for speedtest-web 内网测速网页版
 - 代码很烂，抛砖引玉，欢迎PR！
 
 # 使用截图
+![image](https://github.com/ZeaKyX/luci-app-speedtest-web/blob/main/img/img.gif)
 
 # 下载
 - [luci-app-speedtest-web](https://github.com/ZeaKyX/luci-app-speedtest-web/releases)
